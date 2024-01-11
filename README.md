@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hesed</h1>
 <h3 align="center">A Computer Science student at Colby College</h3>
 
-- 🔭 I’m currently working on **a reddit word counter**
+- 🔭 I’m currently working on **making a live workout website**
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML**
 
