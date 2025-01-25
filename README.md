@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hesed</h1>
 <h3 align="center">A Computer Science student at Colby College</h3>
 
-- 🔭 I’m currently working on **making a live workout website**
+- 🔭 I’m currently working on **making a Sokoban based tutorial sets website**
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, Django**
 
-- 🤝 I’m looking for help with **getting an internship**
+- 🤝 I’m looking for help with **getting a job**
 
 - 📫 How to reach me **hesedguwn@gmail.com**
 
